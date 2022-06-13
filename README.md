@@ -1,19 +1,6 @@
 ## Welcome to My Reading Notes
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+[Class -01 Reading Assignment](Reading-01.md)
+[Class -02 Reading Assignment](Reading-02.md)
+[Class -03 Reading Assignment](Reading-03.md)
 
